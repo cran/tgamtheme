@@ -1,0 +1,13 @@
+3fbdee6f9d6c078d40325d5287b762ca *DESCRIPTION
+93036b064408fce7d783ebb4b0a2d87a *LICENSE
+e30f27a8215507b70a630987b10cf07a *NAMESPACE
+f27cd366527433b6e90d00432fa04f3d *NEWS.md
+f312ac6af1b6323a4722c06f85b60836 *R/theme_tgam.R
+19dfbc83a995fe08f700216596f260f5 *README.md
+4ce9c557cc82ed9f0fcb1e4c03917d36 *man/scale_color_tgam.Rd
+94cdfbe1fe109de17435005712e89e9b *man/scale_fill_tgam.Rd
+8a7f174c837937a05121662995ba03a7 *man/tgam_cols.Rd
+2a4c450f8c88eb327dd66ee70f9ca714 *man/tgam_pal.Rd
+89e347da69a017662ad8723c92300b91 *man/theme_tgam.Rd
+8f211729e0cb3c5dc622d44cf96ab0e3 *tests/testthat.R
+2463fba6bf1336448a7542710505c1c0 *tests/testthat/test-theme_tgam.R
